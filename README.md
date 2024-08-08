@@ -1,3 +1,7 @@
+## Virtual Disc
+
+This is an implementation of a simple FAT-based file/directory management system that uses an in-memory disk. It allows users to create files and directories as well as read from and write to the virtual disk.
+
 ## How to run:
 
 ### On Windows:
