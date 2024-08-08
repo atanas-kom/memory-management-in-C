@@ -42,4 +42,4 @@ void myfclose ( MyFILE \* stream ) - closes the file.
 
 Hexdump of the virtual disk "virtualdiskC3\_C1" can be seen below:
 
-![](picture.png)
+![](image.png)
